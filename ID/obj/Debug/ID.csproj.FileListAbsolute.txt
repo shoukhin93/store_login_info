@@ -1,0 +1,17 @@
+E:\Programming\Projects\ID\ID\bin\Debug\ID.exe.config
+E:\Programming\Projects\ID\ID\bin\Debug\ID.exe
+E:\Programming\Projects\ID\ID\bin\Debug\ID.pdb
+E:\Programming\Projects\ID\ID\obj\Debug\ID.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\ID\ID\obj\Debug\ID.add.resources
+E:\Programming\Projects\ID\ID\obj\Debug\ID.Form1.resources
+E:\Programming\Projects\ID\ID\obj\Debug\ID.Properties.Resources.resources
+E:\Programming\Projects\ID\ID\obj\Debug\ID.show.resources
+E:\Programming\Projects\ID\ID\obj\Debug\ID.csproj.GenerateResource.Cache
+E:\Programming\Projects\ID\ID\obj\Debug\ID.exe
+E:\Programming\Projects\ID\ID\obj\Debug\ID.pdb
+E:\Programming\Projects\ID\ID\bin\Debug\ID.exe.manifest
+E:\Programming\Projects\ID\ID\bin\Debug\ID.application
+E:\Programming\Projects\ID\ID\obj\Debug\ID.exe.manifest
+E:\Programming\Projects\ID\ID\obj\Debug\ID.application
+E:\Programming\Projects\ID\ID\obj\Debug\ID.modify.resources
+E:\Programming\Projects\ID\ID\obj\Debug\ID.LOGIN.resources
